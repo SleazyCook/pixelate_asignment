@@ -38,7 +38,7 @@ td {
 @media all and (max-width: 500px) {
     td {
         height: 10px;
-        width: 10px
+        width: 10px;
     }
 }
 
