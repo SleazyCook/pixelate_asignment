@@ -1,4 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Berkshire+Swash&family=Permanent+Marker&display=swap');
+
 
 * {
     font-family: 'VT323';
@@ -32,6 +34,10 @@ td {
 
 .yellow{
     background-color: yellow;
+}
+
+.orange {
+    background-color: rgb(204, 145, 36);
 }
 
 .green{
@@ -69,3 +75,7 @@ td {
 a {
     text-decoration: none;
 }
+/* 
+#author {
+    font-family: 'Berkshire Swash';
+} */
