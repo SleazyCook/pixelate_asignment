@@ -46,16 +46,20 @@ td {
     background-color: rgb(231, 178, 187);
 }
 
-.black {
-    background-color: black;
-}
-
 .brown {
     background-color: burlywood;
 }
 
 .dark-brown {
     background-color: rgb(90, 63, 27);
+}
+
+.black {
+    background-color: black;
+}
+
+.white {
+    background-color: white;
 }
 
 a {
