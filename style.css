@@ -54,6 +54,10 @@ td {
     background-color: rgb(90, 63, 27);
 }
 
+.gray {
+    background-color: gray;
+}
+
 .black {
     background-color: black;
 }
