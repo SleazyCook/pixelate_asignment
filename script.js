@@ -42,7 +42,6 @@ function colorize(event)
     } else {
         target.className = chosenColor;
     }
-    
 }
 
 //create a variable for the html select element (id: color-selector)
