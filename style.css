@@ -42,12 +42,20 @@ td {
     background-color: purple;
 }
 
+.pink {
+    background-color: pink;
+}
+
 .black {
     background-color: black;
 }
 
 .brown {
     background-color: burlywood;
+}
+
+.dark-brown {
+    background-color: rgb(90, 63, 27);
 }
 
 a {
