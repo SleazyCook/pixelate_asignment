@@ -12,6 +12,10 @@
     font-family: 'VT323'
 }
 
+footer {
+    font-family: 'Times New Roman', Times, serif;
+}
+
 /* author styling */
 a {
     text-decoration: none;
